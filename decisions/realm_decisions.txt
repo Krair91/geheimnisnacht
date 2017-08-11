@@ -1069,7 +1069,7 @@ decisions = {
 				hidden_tooltip = {
 					OR = {
 						NOT = {
-							religion_group = pagan_group
+							religion_group = greenskin_gods_group
 						}
 						is_reformed_religion = yes
 					}
@@ -1295,7 +1295,7 @@ decisions = {
 				hidden_tooltip = {
 					OR = {
 						NOT = {
-							religion_group = pagan_group
+							religion_group = greenskin_gods_group
 						}
 						is_reformed_religion = yes
 					}
@@ -1561,7 +1561,7 @@ decisions = {
 				hidden_tooltip = {
 					OR = {
 						NOT = {
-							religion_group = pagan_group
+							religion_group = greenskin_gods_group
 						}
 						is_reformed_religion = yes
 					}
